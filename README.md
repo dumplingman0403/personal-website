@@ -1,3 +1,3 @@
 # personal-website
 
-## https://github.com/dumplingman0403/personal-website.git
+## https://dumplingman0403.github.io/personal-website/
