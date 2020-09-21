@@ -1175,6 +1175,7 @@
 }
 .icon-briefcase3:before {
   content: "\e0af";
+  color: white;
 }
 .icon-speech-bubble:before {
   content: "\e0b0";
